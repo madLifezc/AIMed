@@ -17,6 +17,7 @@
 ### 🧠 2.1 后端（Java）
 
 - LangChain4j ：用于集成和调用大模型能力
+- Pinecone : 向量数据库
 - SpringBoot ：快速构建后端服务
 - MyBatis + MySQL / MongoDB ：数据持久化层，支持关系型与非关系型数据库
 - Maven ：项目依赖管理
